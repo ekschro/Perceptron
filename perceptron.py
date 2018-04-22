@@ -1,7 +1,5 @@
 # perceptron.py
 # Ericsson Schroeter
-# AI: Homework 5
-# Dr. Andrew Plummer
 
 import sys
 import numpy
